@@ -68,6 +68,11 @@ The screenshot below demonstrates service enumeration and version detection perf
 ![Nmap Scan](nmap-scan.png)
 
 ## Project Outcome
+## Target System Identification
+
+The screenshot below demonstrates identification of the Metasploitable 2 target IP address using the `ifconfig` command prior to performing network reconnaissance and service enumeration activities.
+
+![Metasploitable IP Address](metasploit-ip.png)
 ## Network Reconnaissance & Enumeration – Nmap Lab Practice
 
 The screenshot below demonstrates service enumeration and network reconnaissance performed using Nmap against a Metasploitable 2 lab environment.
