@@ -65,8 +65,6 @@ The target system exposed several services that may increase attack surface risk
 
 The screenshot below demonstrates service enumeration and version detection performed using Nmap.
 
-![Nmap Scan](nmap-scan.png)
-
 ## Project Outcome
 ## Target System Identification
 
